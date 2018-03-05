@@ -1,5 +1,3 @@
-
-
 package com.bowan.sparkstreaming
 
 import org.apache.spark._
