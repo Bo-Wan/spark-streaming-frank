@@ -1,4 +1,4 @@
-package com.sundogsoftware.sparkstreaming
+package com.bowan.sparkstreaming
 
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.{Seconds, StreamingContext}
